@@ -28,5 +28,9 @@ This is a simple web app built with **Streamlit** that compresses uploaded image
 
 ---
 
+## Run the Streamlit App
+```bash
+Python Streamlit run main.py
 
+ 
 
