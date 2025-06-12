@@ -23,7 +23,6 @@ This is a simple web app built with **Streamlit** that compresses uploaded image
 - Adjust number of colors (K)
 - Side-by-side preview
 - Download compressed image
-- Dark-themed interface
 
 
 ---
