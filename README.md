@@ -32,5 +32,3 @@ This is a simple web app built with **Streamlit** that compresses uploaded image
 ```bash
 Python Streamlit run main.py
 
- 
-
