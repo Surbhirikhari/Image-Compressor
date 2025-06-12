@@ -5,13 +5,14 @@ This is a simple web app built with **Streamlit** that compresses uploaded image
 
 ---
 
-## 🖥️ App Screenshots
+## 🖼️ App Screenshots
 
 ### 🔹 Image Upload Screen
-![Upload Screenshot](assets/img1.png)
+<img src="assets/img2.png" width="400"/>
 
 ### 🔹 Compressed Image with Download Option
-![Compressed Screenshot](assets/img2.png)
+<img src="assets/img1.png" width="400"/>
+
 
 ---
 
